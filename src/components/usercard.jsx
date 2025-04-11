@@ -3,7 +3,7 @@ import React from 'react';
 
 const Usercard = () => {
   // Static user details
-  const profilePhoto = "https://via.placeholder.com/100";
+  const profilePhoto = "https://preview.redd.it/penis-plugs-where-and-how-do-i-clean-them-when-my-boy-v0-l5c5jvlhu63d1.jpeg?auto=webp&s=7c82f1fff0cc2050803bc50490813044df1a2600";
   const name = "John Doe";
   const email = "johndoe@example.com";
   const phone = "+1 (555) 123-4567";
